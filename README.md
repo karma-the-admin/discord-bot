@@ -4,7 +4,7 @@ config.py file not included
 
 idk why you would ever want to use this
 
-also only making this repo cause I wanted to try it
+also only making this repo cause I wanted to try it so don't except anything
 
 anyway I'm gonna make ai yap for the rest of this read me
 
